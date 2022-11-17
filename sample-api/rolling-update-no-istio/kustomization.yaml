@@ -6,5 +6,5 @@ resources:
 - sample-api-svc.yaml
 
 images:
-- name: oscka/sample-api
+- name: jaydenseo/sample-api
   newTag: 0.0.16

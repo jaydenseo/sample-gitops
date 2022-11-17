@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: sample-api
-        image: oscka/sample-api
+        image: jaydenseo/sample-api
         imagePullPolicy: Always
         ports:
         - name: http
