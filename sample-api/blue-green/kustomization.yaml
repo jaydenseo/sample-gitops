@@ -7,5 +7,5 @@ resources:
 - ingress-sample-api.yaml
 - ingress-preview-sample-api.yaml
 images:
-- name: oscka/sample-api
+- name: jaydenseo/sample-api
   newTag: 0.0.2
