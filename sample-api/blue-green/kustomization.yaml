@@ -8,4 +8,4 @@ resources:
 - ingress-preview-sample-api.yaml
 images:
 - name: jaydenseo/sample-api
-  newTag: 0.0.2
+  newTag: 0.0.5
