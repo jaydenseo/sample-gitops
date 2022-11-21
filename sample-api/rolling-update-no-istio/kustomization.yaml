@@ -9,4 +9,4 @@ images:
 - name: jaydenseo/sample-api
   newTag: 0.0.12
 - name: oscka/sample-api
-  newTag: 0.0.9
+  newTag: 0.0.16
