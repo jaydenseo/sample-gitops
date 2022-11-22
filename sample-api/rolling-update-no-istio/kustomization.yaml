@@ -7,6 +7,6 @@ resources:
 
 images:
 - name: jaydenseo/sample-api
-  newTag: 0.0.21
+  newTag: 0.0.22
 - name: oscka/sample-api
   newTag: 0.0.16
